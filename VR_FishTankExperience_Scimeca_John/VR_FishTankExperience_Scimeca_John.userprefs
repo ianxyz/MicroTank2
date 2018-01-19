@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="VR_FishTankExperience_Scimeca_John.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleVR\Scripts\ClamParticelScript.cs">
+    <Files>
+      <File FileName="Assets\GoogleVR\Scripts\ClamParticelScript.cs" Line="26" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
